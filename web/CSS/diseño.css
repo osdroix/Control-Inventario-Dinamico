@@ -1,0 +1,521 @@
+  
+.clase-b {
+          width:100%;
+             border-radius:5px;
+           font-size: 50%;
+           padding:10px;
+      }
+.modelos-menu{
+    width:20%;
+    border-radius:5px;
+    background:#fff;
+    border-color:rgb(227, 227, 227);
+   border-width: 1px;
+   border-style: solid; 
+    padding:10px;
+    margin-left: 70px;
+    margin-top:-20px;
+    margin-right: 20px;
+}
+.Agenda{
+    width:30%;
+    height:50vh;
+    overflow-y: auto;
+    border-radius:5px;
+    background:#fff;
+    border-color:rgb(227, 227, 227);
+    border-width: 1px;
+    border-style: solid; 
+    padding:25px;
+    margin-left:25px;
+    margin-top: 25px;   
+    float: left;
+}
+.Agenda-menu{
+    width:20%;
+    height:50vh;
+    overflow-y: auto;
+    border-radius:5px;
+    background:#fff;
+    border-color:rgb(227, 227, 227);
+    border-width: 1px;
+    border-style: solid; 
+    padding:25px;
+    margin-top:10px;
+    margin-left:30px;
+    margin-right:70px;
+}
+  .muro{
+    width: 75%; 
+    padding: 16px;
+    height:65vh;
+    margin-top: -50px; 
+    overflow-y: auto;
+    
+  }
+.login-Irael{
+   background:#FFF;
+        width:25%;
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
+	border-radius: 8px;
+	padding: 25px;
+}
+.login-main{
+    display: flex;
+    justify-content: center;
+    padding:50px; 
+}
+.menu-login{
+    padding:50px; 
+}
+.Login-body{
+background: url(https://i.pinimg.com/originals/26/a0/27/26a027dbd896ef6d9a8019f3e56304b3.png)      no-repeat center center fixed;
+      -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+      
+      }
+.what{
+    background:#000;
+    width:59px;
+}
+.Tiquet-carrito{
+    background: #FFF;
+    padding: 35px;
+    border-radius:5px;
+    height:90vh;
+    overflow-y: auto;
+    
+  }
+  .productos-cliente{
+      display: flex;
+       justify-content: center;
+      padding:30px; 
+  }
+  .centrar-ticket{
+      display: flex;
+       justify-content: center;
+      padding:30px; 
+  }
+.productos{
+    width:100%;
+    height:90vh;
+    overflow-y: auto;
+    padding:20px;
+    
+}
+.productos-adm{
+    display: flex;
+       justify-content: center;
+      padding:50px; 
+      height:90vh;
+      
+    overflow-y: auto;
+    
+}
+.modelos{
+    border-radius:5px;
+    background:#fff;
+    width:200px;
+    border-color:rgb(227, 227, 227);
+   border-width: 1px;
+   border-style: solid; 
+    padding:10px;
+    margin-left: 20px;
+    margin-top:20px;
+    margin-right: 20px;
+}
+.Terminos-Estructura{
+    background:#fff;
+    width:80%;
+    padding:50px;
+    border-color: gray;
+    height:90vh;
+    overflow-y: auto;
+    border: 2px solid #A0AFEB;
+    border-radius:5px;
+
+}
+
+.Marquet{
+  padding:25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.terminacion{
+     background-color: #fafafa;
+  padding: 1rem;
+  border: 2px solid #ccc;
+}
+.terminaciones{
+  margin: 0.5rem;
+  padding: 1rem;
+  border: 2px solid #00A1EC;
+      height:70vh;
+    overflow-y: auto;
+}
+.lo{
+    
+    background:#212529;
+    padding:40px;
+}
+.hoja{
+    background:#fff;
+    padding:40px;
+    width:80%;
+    border-radius:8px;
+}
+.encabezado{
+    width:80%;
+}
+.azul{
+    background:#8DD35F;
+}
+.suerte{
+    
+    background:#Fff;
+    width:50%;
+    padding:50px;
+}
+.mañana{
+    background:#000;
+    width:50%;
+    padding:15px;
+    border-radius:10px;
+}
+.dj{
+    padding:15px;
+}
+.horario{
+    background:#Fff;
+    width:100%;
+    padding:15px;
+    height:50hv;
+    border-radius:10px;
+}
+.ya{
+  padding: 50px;
+  justify-content: center;
+}
+.we{
+  background: #fdfdff;
+  padding: 50px;
+  border-radius:5px;
+  width:400px;
+}
+.login{
+    background: url(https://image.freepik.com/vector-gratis/fondo-degradado-concepto-tonos-verdes_23-2148387745.jpg)
+      no-repeat center center fixed;
+      -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+      }
+.clases {
+    background: #212529;
+      }
+  .Muro-registro-emple{
+       display: flex;
+       justify-content: center;
+      padding:50px; 
+  } 
+  .submuro-registro-emple{
+      display: block; 
+      background:#fff;
+      padding: 30px;
+      width: 400px;
+  }
+  
+  .centrar{
+      display: flex;
+       justify-content: center;
+      padding:100px; 
+  }
+  .tabl{
+      padding:50px;
+  }
+  .queso{
+      width:80%;
+      padding:60px;
+  }
+
+  .party{
+      display: flex;
+  }
+  .Muro-registro{
+      padding:50px; 
+  }
+  @media (min-width: 400px) {
+  .Muro-registro{
+       
+      padding:50px; 
+  }
+  }
+  .submuro-registro{
+      background:#Fff;
+      padding: 40px;
+      width: 700px;
+      height: 100%;
+  }
+  @media (min-width: 400px) {
+  .submuro-registro{
+      display: block; 
+      background:#Fff;
+      padding: 40px;
+      width: 500px;
+      height: 100%;
+  }
+  }
+  .inputs{
+      background:#fff;
+      padding:5 px;
+      border-radius:5px;
+      border: 1px solid #00AEE3;
+      
+  }
+  .input-registro{
+      border: 0;
+      outline: 0;
+  }
+  .cifrado{
+      display: inline-block;
+      background:#F9F9F9;
+      padding: 50px;
+      width: 400px;
+  }
+  @media (min-width: 400px) {
+  .cifrado{
+      display: block; 
+      background:#F9F9F9;
+      padding: 50px;
+      width: 400px;
+  }
+  }
+  .Registro{
+      display: inline-block;
+      background:#F9F9F9;
+      padding: 50px;
+      width: 400px;
+  }
+  @media (min-width: 400px) {
+  .Registro{
+      display: block; 
+      background:#F9F9F9;
+      padding: 50px;
+      width: 400px;
+  }
+  }
+  .imge {
+     border-radius:130%;
+      font-size: calc( 0.5+ 1vw);
+      transition: solid .5s;
+      
+  }
+  .menu{
+      background:#033649;
+      width: 30%;
+      overflow-y: auto;
+      height: 85vh;
+      float: right; 
+  }
+  .tablo{
+     background: #212529;
+     padding: 20px;
+     width: 470px;
+  }
+  .superiorr{
+    padding: 50px;
+    overflow-y: auto;
+    
+  }
+  .l{
+    background:#212529;
+      
+  }
+
+ .tabla{
+background:#fff;
+padding: 16px;
+height: 100vh;
+width:70%;
+padding:50px; 
+ overflow-y: auto;
+  }
+
+  .p{
+      
+        float: right;
+  }
+  .bod7{
+    background:#212529;
+  }
+  .btnh{
+    background: #033649;
+       width: 90%;
+  }
+  div#pared{
+      background: #fff;
+      max-width: 650%;
+      height: 100vh;
+       width: 70%;
+        overflow-y: auto;
+        float: left;
+  }
+  div#pared1{
+      background: #fff;
+      height: 100vh;
+      padding: 3em;
+      float: left;
+    }
+  div#capsula{
+    background: #Fff;
+    max-width: 30%;
+      height: 100vh;
+       width: 70%;
+      overflow-y: auto;
+      float: right;
+  }
+.capsulas{
+    background: #FFF;
+    padding: 20px;
+    width: 500px;
+  }
+.capsulas2{
+    background: #FFF;
+    padding: 35px;
+    border-radius:5px;
+    width:360px;
+  }
+  .formal{
+    background: #FFF;
+    padding: 35px;
+    width:380px; 
+  }
+  div#capsula2{
+    background:#fff;
+    max-width: 30%;
+      height: 30vh;
+       width: 70%;
+      overflow-y: auto;
+      float: right;
+  }
+  .title{
+      color:000;
+  }
+  .title2{
+    color:000;
+  }
+  .color{
+      color:#000;	
+  }
+  #centro {
+      height: 130px;
+      width: 140px;
+      object-fit: cover;
+  }
+  .text{
+        border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 1px solid black ;
+  }
+  .text1{
+        border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 1px solid white;
+  }
+  .link{
+    color:#06BADE;
+  }
+  div#imga{
+     width: 70%;
+      overflow-y: auto;
+      float: right;
+  }
+  .responsive {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+  }
+  .contenedor9 {
+  width: 96%;
+  max-width: 960px;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  }
+  
+  .main{
+    background:  #033649 ;
+    padding: 20px;
+  }
+  .bodys{
+    background: #033649;
+  }
+  .hy{
+    color: #fff;
+  }
+  
+  .white{
+    background:#fff;
+  }
+  .Productos{
+    max-width: 630%;
+    height: 80vh;
+    width: 50%;
+    overflow-y: auto;
+    float: left; 
+  }
+  .Productos1{
+      padding:50px;
+       width: 100%;
+      overflow-y: auto;
+  }
+  .sumatorios{
+      padding:30px;
+    width: 60%;
+      overflow-y: auto;
+      float: right; 
+  }
+  .centrado{
+    background: #fff;
+    max-width: 630%;
+      height: 75vh;
+       width: 95%;
+      overflow-y: auto;
+      float: right; 
+  }
+  
+  .buscado{
+       width: 40%;
+    padding: 15px;
+    height: 80vh;
+    overflow-y: auto;
+  }
+  .mostrador{
+    background: #fff;
+    height: 83vh;
+       width: 30%;
+      overflow-y: auto;
+      float: left;
+  }
+  .graficas{
+    background:  #fff;
+    max-width: 610%;
+      height: 83vh;
+       width: 70%;
+    border-radius: 8px;
+      overflow-y: auto;
+      float: left; 
+  }
+  .chicos{
+    background:  #fff;
+    max-width: 310%;
+      height: 37vh;
+       width: 40%;
+      overflow-y: auto;
+      float: left; 
+  }
